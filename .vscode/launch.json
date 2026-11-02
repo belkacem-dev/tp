@@ -1,0 +1,101 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "main",
+      "request": "launch",
+      "mainClass": "tp2.main",
+      "projectName": "java_a52fc98d"
+    },
+    {
+      "type": "java",
+      "name": "main01",
+      "request": "launch",
+      "mainClass": "interfaces_abstruct.main01",
+      "projectName": "java_a52fc98d"
+    },
+    {
+      "type": "java",
+      "name": "exo12",
+      "request": "launch",
+      "mainClass": "exo12",
+      "projectName": "java_a52fc98d"
+    },
+    {
+      "type": "java",
+      "name": "exo11",
+      "request": "launch",
+      "mainClass": "exo11",
+      "projectName": "java_a52fc98d"
+    },
+    {
+      "type": "java",
+      "name": "exo10",
+      "request": "launch",
+      "mainClass": "exo10",
+      "projectName": "java_a52fc98d"
+    },
+    {
+      "type": "java",
+      "name": "exo9",
+      "request": "launch",
+      "mainClass": "exo9",
+      "projectName": "java_a52fc98d"
+    },
+    {
+      "type": "java",
+      "name": "Exercise9",
+      "request": "launch",
+      "mainClass": "Exercise9",
+      "projectName": "java_a52fc98d"
+    },
+    {
+      "type": "java",
+      "name": "exo8",
+      "request": "launch",
+      "mainClass": "exo8",
+      "projectName": "java_a52fc98d"
+    },
+    {
+      "type": "java",
+      "name": "exo7",
+      "request": "launch",
+      "mainClass": "exo7",
+      "projectName": "java_a52fc98d"
+    },
+    {
+      "type": "java",
+      "name": "main02",
+      "request": "launch",
+      "mainClass": "main02",
+      "projectName": "java_a52fc98d"
+    },
+    {
+      "type": "java",
+      "name": "main01",
+      "request": "launch",
+      "mainClass": "main01",
+      "projectName": "java_a52fc98d"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/kerono/Desktop/java",
+      "program": "c:/Users/kerono/Desktop/java/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
